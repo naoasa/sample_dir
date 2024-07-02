@@ -1,2 +1,2 @@
 Changed.
-Hello.
+Hello, world!
